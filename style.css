@@ -1,0 +1,52 @@
+body{
+	background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BtNUo1L7xiwfd5e24/flame-burning-of-closeup-on-transparent-background-with-alpha-channel_h8woyv8mg_thumbnail-full01.png);
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+
+}
+
+.row{
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	height: 500px;
+	width: 1000px;
+	margin:5% 5% 5% 17.5%;
+	vertical-align: center;
+
+}
+
+.column{
+	flex: 33.3%;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.score1{
+	font-size:100px;
+	color:red;
+	margin-top:10%;
+}
+
+.subBlock1{
+	flex-wrap: wrap;
+	height:100px;
+	width: 110px;
+	margin-top: 45%;
+	background-color: red;
+}
+img{
+	margin-top: 20%;
+}
+.btn2{
+	flex-wrap: wrap;
+	
+	margin-top: 30%
+}
+
+.btn,img{
+	background-color: grey;
+}
+
+
